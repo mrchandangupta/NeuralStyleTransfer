@@ -4,3 +4,4 @@ pandas
 matplotlib
 tensorflow
 pillow
+tensorflow_hub
